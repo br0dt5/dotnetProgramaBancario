@@ -1,0 +1,16 @@
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+F:\Estudos\DIO\Projetos\C#\CSharp na prática\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
